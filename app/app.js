@@ -1,4 +1,4 @@
-angular.module('mcHelper', [
+angular.module('MCHelper', [
     'ngRoute'
 ]).config(function($routeProvider) {
     $routeProvider.when('/', {

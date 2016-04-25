@@ -3,7 +3,7 @@
  */
 'use strict';
 
-angular.module('mcHelper', ['ngRoute'])
+angular.module('MCHelper', ['ngRoute'])
     .controller('MainController',function(){
         console.log('at main');
     });

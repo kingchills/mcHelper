@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('mcHelper')
+angular.module('MCHelper')
     .provider('Item', function(){
 
     });

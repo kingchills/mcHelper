@@ -1,7 +1,7 @@
 'use strict';
 
-describe('mcHelper.version module', function() {
-  beforeEach(module('mcHelper.version'));
+describe('MCHelper.version module', function() {
+  beforeEach(module('MCHelper.version'));
 
   describe('interpolate filter', function() {
     beforeEach(module(function($provide) {

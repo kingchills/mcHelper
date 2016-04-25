@@ -1,8 +1,8 @@
 'use strict';
 
-angular.module('mcHelper.version', [
-  'mcHelper.version.interpolate-filter',
-  'mcHelper.version.version-directive'
+angular.module('MCHelper.version', [
+  'MCHelper.version.interpolate-filter',
+  'MCHelper.version.version-directive'
 ])
 
 .value('version', '0.1');

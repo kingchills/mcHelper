@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('mcHelper.version.interpolate-filter', [])
+angular.module('MCHelper.version.interpolate-filter', [])
 
 .filter('interpolate', ['version', function(version) {
   return function(text) {
